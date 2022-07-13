@@ -4,6 +4,10 @@ body{
 #title{
     text-align: center;
 }
+*{
+    margin: 0;
+    border: 0;
+}
 img{
 height: 276px;
 width: 276px;
