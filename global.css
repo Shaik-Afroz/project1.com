@@ -1,19 +1,20 @@
 body{
     background-color: bisque;
-}
-#title{
-    text-align: center;
+    padding-left: 5;
 }
 *{
     margin: 0;
     border: 0;
 }
+#title{
+    text-align: left;
+}
 img{
 height: 276px;
 width: 276px;
-margin-top: 0px;
-padding-left: 338px;
+text-align: center;
+display: block;
 }
 #birth{
-text-align: center;
+text-align: left;
 }
